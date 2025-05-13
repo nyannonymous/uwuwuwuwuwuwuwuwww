@@ -58,11 +58,28 @@ div[role="tablist"] {
   > div[class*="premiumTab_"] + div + div + div + div { display: var(--display-nitro-features); } /* Billing */
 }
 
+
+
+
+  div[class*="div class="item_b3f026 themed_b3f026" "] + div > div[class^="emptyTierWrapper"] { display: none; }
+}
+
+
+
+
+
+
+
 /* [Settings][Sidebar] Disable Nitro tab shininess (for search) */
 div[class^="premiumTab"] {
   div[class^="premiumLabel"] svg { display: none; }
   div[class^="background"] { display: none; }
 }
+
+
+
+
+
 
 /* Server Profiles: Make unique profiles for each server box */
 div[class*="upsellOverlayContainer_"] { display: none; }
