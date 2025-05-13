@@ -309,9 +309,7 @@ span:not([class*=spinner_]):not([class*=spinnerItem]) {
   height: 100%;
   background: rgb(var(--accent), 1);
 }
-#app-mount .userPanelOuter-xc-WYi {
-  background: var(--background-alt);
-}
+
 
 #app-mount .chat_f75fb0 {
   background: var(--background);
