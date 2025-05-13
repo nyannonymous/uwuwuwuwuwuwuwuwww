@@ -170,18 +170,7 @@ span:not([class*=spinner_]):not([class*=spinnerItem]) {
   color: var(--text-normal);
 }
 
-#app-mount .guilds_c48ade {
-  background: var(--background-dark);
-}
-#app-mount .guilds_c48ade .footer__214dc {
-  --background-tertiary: var(--background-dark);
-}
-#app-mount .guilds_c48ade .scrollerBase_d125d2 {
-  background: var(--background-dark);
-}
-#app-mount .guilds_c48ade .scrollerBase_d125d2::-webkit-scrollbar {
-  display: none;
-}
+
 
 #app-mount .wrapper__8436d.selected_ae80f7 .childWrapper_a6ce15 {
   background: rgb(var(--accent), 1);
