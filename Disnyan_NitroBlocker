@@ -207,9 +207,7 @@ span:not([class*=spinner_]):not([class*=spinnerItem]) {
 #app-mount .container__2637a,
 
 
-#app-mount .panels_c48ade {
-  background: var(--background);
-}
+
 #app-mount .activityPanel_c48ade .container__37e49 {
   background: transparent;
 }
