@@ -19,6 +19,16 @@
   --background-modifier-active: var(--background-light);
   --channels-default: var(--text-normal);
   --text-link: rgb(var(--accent));
+    --accentcolor: 175, 128, 240;  /* Blurple color */
+    --accentcolor2: 225, 115, 180; /* Boostpink color */
+    --linkcolor: 128, 235, 189;    /* Link color */
+    --accent: 50, 131, 207;        /* MinimalCord accent color */
+    --message-padding: 10px;       /* Spacing in messages */
+    --message-spacing: 10px;       /* Spacing around messages */
+    --font: 'Inter', sans-serif;   /* Font */
+
+
+
 }
 
 .theme-light,
