@@ -14,9 +14,7 @@
   --discord-spotify: 29 185 84;
   --discord-twitch: 89 54 149;
   --discord-xbox: 16 124 16;
-  --background-modifier-selected: var(--background-light);
-  --background-modifier-hover: var(--background-alt);
-  --background-modifier-active: var(--background-light);
+
   --channels-default: var(--text-normal);
   --text-link: rgb(var(--accent));
 }
